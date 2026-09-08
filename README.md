@@ -76,7 +76,7 @@ A Gradio-based interface allows users to enter student information and receive:
 ![Gradio App Screenshot](gradio_app_screenshot.png)
 ## 📁 Project Files
 
-- `Intelligent_College_Exam_Management_System.ipynb` — Complete project notebook
+- `Intelligent_College_Examination_Management_&_Analytics_System.ipynb` — Complete project notebook
 - `student_exam_performance_analysis.csv` — Student dataset used for analysis and model development
 
 ## 🚀 Future Improvements
