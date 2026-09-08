@@ -73,7 +73,7 @@ A Gradio-based interface allows users to enter student information and receive:
 - Predicted Exam Score
 - Performance Level
 - Risk Level
-
+![Gradio App Screenshot](gradio_app_screenshot.png)
 ## 📁 Project Files
 
 - `Intelligent_College_Exam_Management_System.ipynb` — Complete project notebook
